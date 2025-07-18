@@ -4,7 +4,7 @@ Este repositório contém a entrega da segunda etapa do desafio técnico da Info
 ### Exercício 01
 Como proposta para o primeiro desafio, foi proposto remodelar um popup de um sistema imobiliário, de modo a fazer com que ele se tornasse mais agradável estéticamente e que sua usabilidade fosse melhorada. Com base nisso, remodelei um pouco sua estrurua e aparência, deixando-o desta forma:
 
-![Popup recriado](/assets/image.png)
+![Popup recriado](/assets/popup.png)
 
 Como ficou percebido, houve mudanças nas cores e na forma que os botões de usabilidade (isto é, da navegação do popup) estão dispostos.
 - A cor do cabeçalho do popup e de seus botões foi alterada para garantir que ela combinasse mais com o restante da aparência do sistema, que possui cor azul escura.
